@@ -5,5 +5,5 @@ HTML5<br>
 CSS3<br>
 JavaScript<br>
 
-🎓 Créditos
+🎓 Créditos:<br>
 Este projeto foi desenvolvido durante um curso de JavaScript oferecido pela Alura.
